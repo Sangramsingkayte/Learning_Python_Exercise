@@ -5,9 +5,16 @@ Python—the popular and highly readable object-oriented language—is both powe
 
 
 Learning objectives
+
 Working with variables and expressions
+
 Writing loops
+
 Using the date, time, and datetime classes
+
 Reading and writing files
+
 Fetching internet data
+
 Parsing and processing HTML
+
